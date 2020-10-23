@@ -1,0 +1,10 @@
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Mees Rootjes\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
